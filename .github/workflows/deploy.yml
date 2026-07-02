@@ -1,4 +1,4 @@
-# Deploy static site to GitHub Pages
+# Deploy static site to GitHub Pages v3
 name: Deploy to GitHub Pages
 
 on:
